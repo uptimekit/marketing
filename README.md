@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# UptimeKit Marketing Page
+
+This is the marketing page for **[UptimeKit](https://github.com/uptimekit/uptimekit)**, an open-source, self-hosted uptime monitoring solution for your websites and APIs.
+
+## About UptimeKit
+
+UptimeKit provides a sleek, real-time dashboard to monitor your services' status and response times. It's designed to be a lightweight and user-friendly alternative to bloated monitoring tools, offering:
+
+- **Real-time Monitoring:** Checks every minute to ensure your services are up.
+- **Multiple Monitor Types:** Support for HTTP, DNS, and ICMP Ping.
+- **Performance Insights:** Track response times with intuitive charts.
+- **Modern UI:** Responsive design with both light and dark modes.
+- **Self-Hosted:** Full control over your data with easy Docker-based setup.
 
 ## Getting Started
 
