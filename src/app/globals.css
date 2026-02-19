@@ -171,11 +171,7 @@
 
   html,
   body {
-    background: #000;
-  }
-
-  body {
-    @apply text-white;
+    @apply bg-black text-white;
   }
   .maplibregl-popup-content {
     @apply bg-transparent! shadow-none! p-0! rounded-none!;
